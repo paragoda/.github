@@ -1,4 +1,5 @@
-## Welcome to Paragoda👋
+# WHY Paragoda
+### We believe that ACTIONS should be MEANINGFUL
 
 <!--
 
