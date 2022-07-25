@@ -1,5 +1,4 @@
-# WHY Paragoda
-### We believe that ACTIONS should be MEANINGFUL
+# WHY: we believe that ACTIONS should be MEANINGFUL
 
 <!--
 
