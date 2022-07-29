@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width='120' src='./assets/logo.png'/>
+  <img width='120' src='https://raw.githubusercontent.com/paragoda/.github/main/profile/assets/logo.png'/>
   <h1 align='center'>Paragoda</h1>
   <p align='center'>
     Your actions should be meaningful.
